@@ -42,13 +42,13 @@ body {
 
 h1{
     margin: 0 auto;
-    margin-left: 150px;
+    margin-left: 130px;
 }
 
 input{
     padding: 15px;
     border: #f4ebeb00;
-    margin-left: 150px;
+    margin-left: 130px;
     width: 351px;
     margin-top: 15px;
 }
